@@ -1,0 +1,11 @@
+/Users/didiervaldez/Desktop/Queue/QueueDemo/bin/Debug/netcoreapp2.2/QueueDemo.deps.json
+/Users/didiervaldez/Desktop/Queue/QueueDemo/bin/Debug/netcoreapp2.2/QueueDemo.runtimeconfig.json
+/Users/didiervaldez/Desktop/Queue/QueueDemo/bin/Debug/netcoreapp2.2/QueueDemo.runtimeconfig.dev.json
+/Users/didiervaldez/Desktop/Queue/QueueDemo/bin/Debug/netcoreapp2.2/QueueDemo.dll
+/Users/didiervaldez/Desktop/Queue/QueueDemo/bin/Debug/netcoreapp2.2/QueueDemo.pdb
+/Users/didiervaldez/Desktop/Queue/QueueDemo/obj/Debug/netcoreapp2.2/QueueDemo.csprojAssemblyReference.cache
+/Users/didiervaldez/Desktop/Queue/QueueDemo/obj/Debug/netcoreapp2.2/QueueDemo.csproj.CoreCompileInputs.cache
+/Users/didiervaldez/Desktop/Queue/QueueDemo/obj/Debug/netcoreapp2.2/QueueDemo.AssemblyInfoInputs.cache
+/Users/didiervaldez/Desktop/Queue/QueueDemo/obj/Debug/netcoreapp2.2/QueueDemo.AssemblyInfo.cs
+/Users/didiervaldez/Desktop/Queue/QueueDemo/obj/Debug/netcoreapp2.2/QueueDemo.dll
+/Users/didiervaldez/Desktop/Queue/QueueDemo/obj/Debug/netcoreapp2.2/QueueDemo.pdb
